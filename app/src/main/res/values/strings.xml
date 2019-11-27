@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Orientation</string>
+    <string name="seekbar_progress_message">The Seekbar value is %1$d</string>
+    <string name="show_square">SHOW SQUARE</string>
+    <string name="try_to_tap_the_square">Try to tap the square</string>
+    <string name="review_app">Review</string>
+    <string name="no_button">No</string>
+    <string name="yes_button">Yes</string>
+    <string name="did_you_enjoy_this_app">Did you enjoy this app?</string>
+</resources>
